@@ -17,17 +17,17 @@ public class Main {
                 new Wall(2)
         };
 
-        for(Contestant contestant : contestants) {
+        for (Contestant contestant : contestants) {
             boolean passed = true;
 
-            for(Stage stage : stages) {
+            for (Stage stage : stages) {
                 passed &= stage.tryExecute(contestant);
-                if(!passed) {
+                if (!passed) {
                     System.out.println("Участник не смог пройти полосу препятствий");
                     break;
                 }
             }
-            if(passed) System.out.println("Участник успешно прошел все испытания!");
+            if (passed) System.out.println("Участник успешно прошел все испытания!");
             System.out.println("=============================================");
         }
     }
