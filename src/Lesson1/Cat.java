@@ -27,9 +27,9 @@ public class Cat implements Contestant {
         if (canRun) {
             System.out.print("Успешно пробежал дистанцию " + length + " м.");
             maxLength -= length;
-            System.out. println(" (сил осталось еще на " + maxLength + " м.)");
+            System.out.println(" (сил осталось еще на " + maxLength + " м.)");
         } else {
-            System.out.println("Не смог пробежать дистанцию " + length + " м." );
+            System.out.println("Не смог пробежать дистанцию " + length + " м.");
             System.out.println("Максимальные возможности кота " + name + " " + maxLength + " м.");
         }
         return canRun;
@@ -42,7 +42,7 @@ public class Cat implements Contestant {
         if (canJump) {
             System.out.println("Успешно перепрыгнул препятствие высотой " + height + " м.");
         } else {
-            System.out.println("Не смог перепрыгнуть припятствие высотой " + height + " м." );
+            System.out.println("Не смог перепрыгнуть припятствие высотой " + height + " м.");
             System.out.println("Максимальные возможности кота " + name + " " + maxHeight + " м.");
         }
         return canJump;
