@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5b55c613-8312-4439-bf00-f2fa2c87ef3b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java.core.lessons/Lesson1/Robot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java.core.lessons/Lesson1/Robot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson1/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson1/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson1/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson1/Robot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,26 +50,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.TelephoneDirectory">
     <configuration name="Box" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson3.Box" />
       <module name="java.core.lessons" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Lesson3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson2.Main" />
-      <module name="java.core.lessons" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +77,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson1.Main" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson4.Main" />
       <module name="java.core.lessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson1.*" />
+          <option name="PATTERN" value="Lesson4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TelephoneDirectory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson4.TelephoneDirectory" />
+      <module name="java.core.lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tesy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson4.Tesy" />
+      <module name="java.core.lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,10 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TelephoneDirectory" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Tesy" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Box" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -126,5 +136,16 @@
       <updated>1621168308599</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson4/TelephoneDirectory.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
