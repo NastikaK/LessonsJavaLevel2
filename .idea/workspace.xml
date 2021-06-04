@@ -1,8 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5b55c613-8312-4439-bf00-f2fa2c87ef3b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java.core.lessons.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java.core.lessons.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java.core.lessons/Lesson1/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java.core.lessons/Lesson1/Contestant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java.core.lessons/Lesson1/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java.core.lessons/Lesson1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java.core.lessons/Lesson1/Robot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java.core.lessons/Lesson1/Stage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java.core.lessons/Lesson1/Treadmill.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java.core.lessons/Lesson1/Wall.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java.core.lessons/Lesson2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java.core.lessons/Lesson2/MyArrayDataException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java.core.lessons/Lesson2/MyArraySizeException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java.core.lessons/Lesson3/Apple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java.core.lessons/Lesson3/Box.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java.core.lessons/Lesson3/Fruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java.core.lessons/Lesson3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java.core.lessons/Lesson3/Orange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson1/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson1/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson1/Contestant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson1/Contestant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson1/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson1/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson1/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson1/Robot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson1/Stage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson1/Stage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson1/Treadmill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson1/Treadmill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson1/Wall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson1/Wall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson2/MyArrayDataException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson2/MyArrayDataException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson2/MyArraySizeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson2/MyArraySizeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson3/Apple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson3/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson3/Fruit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3/Orange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson3/Orange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson4/TelephoneDirectory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson4/TelephoneDirectory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson5/AppData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson5/AppData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson5/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,10 +74,10 @@
     <setting file="file://$PROJECT_DIR$/.idea/modules.xml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/.idea/workspace.xml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/.idea/misc.xml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/Lesson1/Human.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/Lesson1/Cat.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/Lesson1/Main.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/Lesson1/Robot.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/Lesson1/Human.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/Lesson1/Cat.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/Lesson1/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/Lesson1/Robot.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1scOF5w6wukdzindC7XpUl0ytSC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -50,13 +91,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson3.Main" />
+  <component name="RunManager" selected="Application.HomeworkOkHttp">
+    <configuration name="HomeworkOkHttp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson6.HomeworkOkHttp" />
       <module name="java.core.lessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson3.*" />
+          <option name="PATTERN" value="Lesson6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HomeworkOkHttp" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.TelephoneDirectory" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Tesy" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -137,21 +178,32 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lesson4/TelephoneDirectory.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Lesson4/TelephoneDirectory.java</url>
           <line>37</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lesson5/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Lesson5/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lesson5/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Lesson5/Main.java</url>
           <line>14</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
